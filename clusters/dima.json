@@ -19,7 +19,19 @@
             },
             "source":"https://github.com/M82-project/DIMA/blob/main/DETECT/DETECT.md#te0111-heuristique-de-disponibilité"
 
-        }
+        },
+        {
+            "description": "Simple exposure effect",
+            "value": "Simple exposure effect",
+            "meta":{
+                "external_id":"TE0112",
+                "kill_chain":["tactic:Pre-existing information"],
+                "ref":["https://github.com/M82-project/DIMA/blob/main/DETECT/DETECT.md#ta0011-information-pr%C3%A9existante"]
+            },
+            "source":"https://github.com/M82-project/DIMA/blob/main/DETECT/DETECT.md#te0112-effet-de-simple-exposition"
+
+        },
+
     ]
 
 

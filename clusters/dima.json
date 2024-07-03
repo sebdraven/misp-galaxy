@@ -31,6 +31,30 @@
             "source":"https://github.com/M82-project/DIMA/blob/main/DETECT/DETECT.md#te0112-effet-de-simple-exposition"
 
         },
+        {
+            "description": "Illusion of frequency",
+            "value": "Illusion of frequency",
+            "meta":{
+                "external_id":"TE0121",
+                "kill_chain":["tactic:Information on repeated exposure"],
+                "ref":["https://github.com/M82-project/DIMA/blob/main/DETECT/DETECT.md#ta0012-information-%C3%A0-exposition-r%C3%A9p%C3%A9t%C3%A9e"]
+            },
+            "source":"https://github.com/M82-project/DIMA/blob/main/DETECT/DETECT.md#te0121-illusion-de-la-fr%C3%A9quence"
+
+        },
+        {
+            "description": "Context effect",
+            "value": "Context effect",
+            "meta":{
+                "external_id":"TE0122",
+                "kill_chain":["tactic:Information on repeated exposure"],
+                "ref":["https://github.com/M82-project/DIMA/blob/main/DETECT/DETECT.md#ta0012-information-%C3%A0-exposition-r%C3%A9p%C3%A9t%C3%A9e"]
+            },
+            "source":"https://github.com/M82-project/DIMA/blob/main/DETECT/DETECT.md#t0122-effet-de-contexte"
+
+        }
+        
+        
 
     ]
 

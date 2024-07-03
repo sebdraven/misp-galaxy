@@ -1,0 +1,27 @@
+{
+    "authors": [
+        "M82 Project"
+    ],
+    "category": "dima",
+    "description": "DIMA is a framework to identify attempts to exploit cognitive biases in information flow.",
+    "name": "Techniques",
+    "source": "https://github.com/M82-project/DIMA/",
+    "type": "dima-techniques",
+    "uuid": "",
+    "values":[
+        {
+            "description": "Availability heuristic",
+            "value": "Availability heuristic",
+            "meta":{
+                "external_id":"TE0111",
+                "kill_chain":["tactic:Pre-existing information"],
+                "ref":["https://github.com/M82-project/DIMA/blob/main/DETECT/DETECT.md#te0111-heuristique-de-disponibilité"]
+            },
+            "source":"https://github.com/M82-project/DIMA/blob/main/DETECT/DETECT.md#te0111-heuristique-de-disponibilité"
+
+        }
+    ]
+
+
+
+}

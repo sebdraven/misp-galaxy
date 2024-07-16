@@ -4,138 +4,168 @@
     ],
     "category": "dima",
     "description": "DIMA is a framework to identify attempts to exploit cognitive biases in information flow.",
-    "name": "Techniques",
+    "name": "DIMA",
     "source": "https://github.com/M82-project/DIMA/",
     "type": "dima-techniques",
     "uuid": "27d61f0f-2382-4870-84ed-40e3ae0a6e7f",
-    "values":[
+    "values": [
         {
             "description": "Availability heuristic",
             "value": "Availability heuristic",
             "uuid": "80961958-62ae-4113-9f49-633790481a2d",
-            "meta":{
-                "external_id":"TE0111",
-                "kill_chain":["tactic:Pre-existing information"],
-                "ref":["https://github.com/M82-project/DIMA/blob/main/DETECT/DETECT.md#te0111-heuristique-de-disponibilité"]
+            "meta": {
+                "external_id": "TE0111",
+                "kill_chain": [
+                    "tactic:Pre-existing information"
+                ],
+                "ref": [
+                    "https://github.com/M82-project/DIMA/blob/main/DETECT/DETECT.md#te0111-heuristique-de-disponibilité"
+                ]
             },
-            "source":"https://github.com/M82-project/DIMA/blob/main/DETECT/DETECT.md#te0111-heuristique-de-disponibilité"
-
+            "source": "https://github.com/M82-project/DIMA/blob/main/DETECT/DETECT.md#te0111-heuristique-de-disponibilité"
         },
         {
             "description": "Simple exposure effect",
             "value": "Simple exposure effect",
             "uuid": "8c5ba783-b7b6-4ea0-a81d-6457d88c1f55",
-            "meta":{
-                "external_id":"TE0112",
-                "kill_chain":["tactic:Pre-existing information"],
-                "ref":["https://github.com/M82-project/DIMA/blob/main/DETECT/DETECT.md#ta0011-information-pr%C3%A9existante"]
+            "meta": {
+                "external_id": "TE0112",
+                "kill_chain": [
+                    "tactic:Pre-existing information"
+                ],
+                "ref": [
+                    "https://github.com/M82-project/DIMA/blob/main/DETECT/DETECT.md#ta0011-information-pr%C3%A9existante"
+                ]
             },
-            "source":"https://github.com/M82-project/DIMA/blob/main/DETECT/DETECT.md#te0112-effet-de-simple-exposition"
-
+            "source": "https://github.com/M82-project/DIMA/blob/main/DETECT/DETECT.md#te0112-effet-de-simple-exposition"
         },
         {
             "description": "Illusion of frequency",
             "value": "Illusion of frequency",
             "uuid": "e215f77f-1eb9-4ccd-a11a-075ef82917b5",
-            "meta":{
-                "external_id":"TE0121",
-                "kill_chain":["tactic:Information on repeated exposure"],
-                "ref":["https://github.com/M82-project/DIMA/blob/main/DETECT/DETECT.md#ta0012-information-%C3%A0-exposition-r%C3%A9p%C3%A9t%C3%A9e"]
+            "meta": {
+                "external_id": "TE0121",
+                "kill_chain": [
+                    "tactic:Information on repeated exposure"
+                ],
+                "ref": [
+                    "https://github.com/M82-project/DIMA/blob/main/DETECT/DETECT.md#ta0012-information-%C3%A0-exposition-r%C3%A9p%C3%A9t%C3%A9e"
+                ]
             },
-            "source":"https://github.com/M82-project/DIMA/blob/main/DETECT/DETECT.md#te0121-illusion-de-la-fr%C3%A9quence"
-
+            "source": "https://github.com/M82-project/DIMA/blob/main/DETECT/DETECT.md#te0121-illusion-de-la-fr%C3%A9quence"
         },
         {
             "description": "Context effect",
             "value": "Context effect",
             "uuid": "87a991b2-947c-4557-aaeb-94a9a92739ab",
-            "meta":{
-                "external_id":"TE0122",
-                "kill_chain":["tactic:Information on repeated exposure"],
-                "ref":["https://github.com/M82-project/DIMA/blob/main/DETECT/DETECT.md#ta0012-information-%C3%A0-exposition-r%C3%A9p%C3%A9t%C3%A9e"]
+            "meta": {
+                "external_id": "TE0122",
+                "kill_chain": [
+                    "tactic:Information on repeated exposure"
+                ],
+                "ref": [
+                    "https://github.com/M82-project/DIMA/blob/main/DETECT/DETECT.md#ta0012-information-%C3%A0-exposition-r%C3%A9p%C3%A9t%C3%A9e"
+                ]
             },
-            "source":"https://github.com/M82-project/DIMA/blob/main/DETECT/DETECT.md#t0122-effet-de-contexte"
-
+            "source": "https://github.com/M82-project/DIMA/blob/main/DETECT/DETECT.md#t0122-effet-de-contexte"
         },
         {
             "description": "Weird effect",
             "value": "Weird effect",
             "uuid": "ce4664bc-535d-4132-9e75-f8adedbacf37",
-            "meta":{
-                "external_id":"TE0131",
-                "kill_chain":["tactic: Cleaving information"],
-                "ref":["https://github.com/M82-project/DIMA/blob/main/DETECT/DETECT.md#te0131-effet-de-bizarrerie"]
-
+            "meta": {
+                "external_id": "TE0131",
+                "kill_chain": [
+                    "tactic: Cleaving information"
+                ],
+                "ref": [
+                    "https://github.com/M82-project/DIMA/blob/main/DETECT/DETECT.md#te0131-effet-de-bizarrerie"
+                ]
             }
         },
         {
-            "description":"Negativity bias",
-            "value":"Negativity bias",
-            "uuid":"334f6398-3d98-4733-b0ef-bb4b774ab85f",
-            "meta":{
-                "external_id":"TE0132",
-                "kill_chain":["tactic: Cleaving information"],
-                "ref":["https://github.com/M82-project/DIMA/blob/main/DETECT/DETECT.md#te0132-biais-de-n%C3%A9gativit%C3%A9"]
-
+            "description": "Negativity bias",
+            "value": "Negativity bias",
+            "uuid": "334f6398-3d98-4733-b0ef-bb4b774ab85f",
+            "meta": {
+                "external_id": "TE0132",
+                "kill_chain": [
+                    "tactic: Cleaving information"
+                ],
+                "ref": [
+                    "https://github.com/M82-project/DIMA/blob/main/DETECT/DETECT.md#te0132-biais-de-n%C3%A9gativit%C3%A9"
+                ]
             }
         },
         {
             "description": "Effect from Restorff",
             "value": "Effect from Restorff",
             "uuid": "655e14d6-c799-4938-be49-8129d04db2f7",
-            "meta":{
-                "external_id":"TE0141",
-                "kill_chain":["tactic: Deviation from the standard"],
-                "ref":["https://github.com/M82-project/DIMA/blob/main/DETECT/DETECT.md#te0141-effet-von-restorff"]
-                
+            "meta": {
+                "external_id": "TE0141",
+                "kill_chain": [
+                    "tactic: Deviation from the standard"
+                ],
+                "ref": [
+                    "https://github.com/M82-project/DIMA/blob/main/DETECT/DETECT.md#te0141-effet-von-restorff"
+                ]
             }
         },
         {
             "description": "Anchoring bias",
             "value": "Anchoring bias",
             "uuid": "f3b3b3b4-1b3b-4b3b-8b3b-3b3b3b3b3b3b",
-            "meta":{
-                "external_id":"TE0142",
-                "kill_chain":["tactic: Deviation from the standard"],
-                "ref":["https://github.com/M82-project/DIMA/blob/main/DETECT/DETECT.md#te0142-biais-dancrage"]
-            }
-            
-        },
-        {
-            "description":"Contrast effect",
-            "value":"Contrast effect",
-            "uuid":"2e499106-ced0-41fb-9fb0-c43731aa6c63",
-            "meta":{
-                "external_id":"TE0143",
-                "kill_chain":["tactic: Deviation from the standard"],
-                "ref":["https://github.com/M82-project/DIMA/blob/main/DETECT/DETECT.md#te0143-effet-de-contraste"]
+            "meta": {
+                "external_id": "TE0142",
+                "kill_chain": [
+                    "tactic: Deviation from the standard"
+                ],
+                "ref": [
+                    "https://github.com/M82-project/DIMA/blob/main/DETECT/DETECT.md#te0142-biais-dancrage"
+                ]
             }
         },
         {
-            "description":"Distinction bias",
-            "value":"Distinction bias",
-            "uuid":"b7a30399-c0d1-4867-9b9f-f914fe6c696a",
-            "meta":{
-                "external_id":"TE0151",
-                "kill_chain":["tactic: Meaningful detail"],
-                "ref":["https://github.com/M82-project/DIMA/blob/main/DETECT/DETECT.md#t0151-biais-de-distinction"]
-
+            "description": "Contrast effect",
+            "value": "Contrast effect",
+            "uuid": "2e499106-ced0-41fb-9fb0-c43731aa6c63",
+            "meta": {
+                "external_id": "TE0143",
+                "kill_chain": [
+                    "tactic: Deviation from the standard"
+                ],
+                "ref": [
+                    "https://github.com/M82-project/DIMA/blob/main/DETECT/DETECT.md#te0143-effet-de-contraste"
+                ]
+            }
+        },
+        {
+            "description": "Distinction bias",
+            "value": "Distinction bias",
+            "uuid": "b7a30399-c0d1-4867-9b9f-f914fe6c696a",
+            "meta": {
+                "external_id": "TE0151",
+                "kill_chain": [
+                    "tactic: Meaningful detail"
+                ],
+                "ref": [
+                    "https://github.com/M82-project/DIMA/blob/main/DETECT/DETECT.md#t0151-biais-de-distinction"
+                ]
             }
         },
         {
             "description": "Weber-Fechner law",
             "value": "Weber-Fechner law",
             "uuid": "b5fabae8-6a30-4384-a472-10ca06d05f36",
-            "meta":{
-                "external_id":"TE0152",
-                "kill_chain":["tactic: Meaningful detail"],
-                "ref":["https://github.com/M82-project/DIMA/blob/main/DETECT/DETECT.md#t0152-loi-de-weber-fechner"]
+            "meta": {
+                "external_id": "TE0152",
+                "kill_chain": [
+                    "tactic: Meaningful detail"
+                ],
+                "ref": [
+                    "https://github.com/M82-project/DIMA/blob/main/DETECT/DETECT.md#t0152-loi-de-weber-fechner"
+                ]
             }
         }
-                
-
     ]
-
-
-
 }

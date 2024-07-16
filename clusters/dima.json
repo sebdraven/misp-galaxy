@@ -7,11 +7,12 @@
     "name": "Techniques",
     "source": "https://github.com/M82-project/DIMA/",
     "type": "dima-techniques",
-    "uuid": "",
+    "uuid": "27d61f0f-2382-4870-84ed-40e3ae0a6e7f",
     "values":[
         {
             "description": "Availability heuristic",
             "value": "Availability heuristic",
+            "uuid": "80961958-62ae-4113-9f49-633790481a2d",
             "meta":{
                 "external_id":"TE0111",
                 "kill_chain":["tactic:Pre-existing information"],
@@ -23,6 +24,7 @@
         {
             "description": "Simple exposure effect",
             "value": "Simple exposure effect",
+            "uuid": "8c5ba783-b7b6-4ea0-a81d-6457d88c1f55",
             "meta":{
                 "external_id":"TE0112",
                 "kill_chain":["tactic:Pre-existing information"],
@@ -34,6 +36,7 @@
         {
             "description": "Illusion of frequency",
             "value": "Illusion of frequency",
+            "uuid": "e215f77f-1eb9-4ccd-a11a-075ef82917b5",
             "meta":{
                 "external_id":"TE0121",
                 "kill_chain":["tactic:Information on repeated exposure"],
@@ -45,6 +48,7 @@
         {
             "description": "Context effect",
             "value": "Context effect",
+            "uuid": "87a991b2-947c-4557-aaeb-94a9a92739ab",
             "meta":{
                 "external_id":"TE0122",
                 "kill_chain":["tactic:Information on repeated exposure"],

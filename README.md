@@ -139,6 +139,14 @@ Category: *Cryptominers* - source: *Open Source Intelligence* - total: *5* eleme
 
 [[HTML](https://www.misp-galaxy.org/cryptominers)] - [[JSON](https://github.com/MISP/misp-galaxy/blob/main/clusters/cryptominers.json)]
 
+## DIMA
+
+[DIMA](https://www.misp-galaxy.org/dima-techniques) - DIMA is a framework to identify attempts to exploit cognitive biases in information flow.
+
+Category: *dima* - source: *https://github.com/M82-project/DIMA/* - total: *11* elements
+
+[[HTML](https://www.misp-galaxy.org/dima-techniques)] - [[JSON](https://github.com/MISP/misp-galaxy/blob/main/clusters/dima-techniques.json)]
+
 ## Actor Types
 
 [Actor Types](https://www.misp-galaxy.org/disarm-actortypes) - DISARM is a framework designed for describing and understanding disinformation incidents.

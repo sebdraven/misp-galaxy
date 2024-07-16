@@ -56,9 +56,83 @@
             },
             "source":"https://github.com/M82-project/DIMA/blob/main/DETECT/DETECT.md#t0122-effet-de-contexte"
 
+        },
+        {
+            "description": "Weird effect",
+            "value": "Weird effect",
+            "uuid": "ce4664bc-535d-4132-9e75-f8adedbacf37",
+            "meta":{
+                "external_id":"TE0131",
+                "kill_chain":["tactic: Cleaving information"],
+                "ref":["https://github.com/M82-project/DIMA/blob/main/DETECT/DETECT.md#te0131-effet-de-bizarrerie"]
+
+            }
+        },
+        {
+            "description":"Negativity bias",
+            "value":"Negativity bias",
+            "uuid":"334f6398-3d98-4733-b0ef-bb4b774ab85f",
+            "meta":{
+                "external_id":"TE0132",
+                "kill_chain":["tactic: Cleaving information"],
+                "ref":["https://github.com/M82-project/DIMA/blob/main/DETECT/DETECT.md#te0132-biais-de-n%C3%A9gativit%C3%A9"]
+
+            }
+        },
+        {
+            "description": "Effect from Restorff",
+            "value": "Effect from Restorff",
+            "uuid": "655e14d6-c799-4938-be49-8129d04db2f7",
+            "meta":{
+                "external_id":"TE0141",
+                "kill_chain":["tactic: Deviation from the standard"],
+                "ref":["https://github.com/M82-project/DIMA/blob/main/DETECT/DETECT.md#te0141-effet-von-restorff"]
+                
+            }
+        },
+        {
+            "description": "Anchoring bias",
+            "value": "Anchoring bias",
+            "uuid": "f3b3b3b4-1b3b-4b3b-8b3b-3b3b3b3b3b3b",
+            "meta":{
+                "external_id":"TE0142",
+                "kill_chain":["tactic: Deviation from the standard"],
+                "ref":["https://github.com/M82-project/DIMA/blob/main/DETECT/DETECT.md#te0142-biais-dancrage"]
+            }
+            
+        },
+        {
+            "description":"Contrast effect",
+            "value":"Contrast effect",
+            "uuid":"2e499106-ced0-41fb-9fb0-c43731aa6c63",
+            "meta":{
+                "external_id":"TE0143",
+                "kill_chain":["tactic: Deviation from the standard"],
+                "ref":["https://github.com/M82-project/DIMA/blob/main/DETECT/DETECT.md#te0143-effet-de-contraste"]
+            }
+        },
+        {
+            "description":"Distinction bias",
+            "value":"Distinction bias",
+            "uuid":"b7a30399-c0d1-4867-9b9f-f914fe6c696a",
+            "meta":{
+                "external_id":"TE0151",
+                "kill_chain":["tactic: Meaningful detail"],
+                "ref":["https://github.com/M82-project/DIMA/blob/main/DETECT/DETECT.md#t0151-biais-de-distinction"]
+
+            }
+        },
+        {
+            "description": "Weber-Fechner law",
+            "value": "Weber-Fechner law",
+            "uuid": "b5fabae8-6a30-4384-a472-10ca06d05f36",
+            "meta":{
+                "external_id":"TE0152",
+                "kill_chain":["tactic: Meaningful detail"],
+                "ref":["https://github.com/M82-project/DIMA/blob/main/DETECT/DETECT.md#t0152-loi-de-weber-fechner"]
+            }
         }
-        
-        
+                
 
     ]
 

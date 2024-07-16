@@ -5,7 +5,7 @@
   "category": "dima",
   "description": "DIMA is a framework to identify attempts to exploit cognitive biases in information flow.",
   "name": "DIMA",
-  "source": "https://github.com/M82-project/DIMA/",
+  "source": "M82",
   "type": "dima-techniques",
   "uuid": "27d61f0f-2382-4870-84ed-40e3ae0a6e7f",
   "values": [

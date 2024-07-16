@@ -1,18 +1,18 @@
 {
-    "description": "DISARM is a framework designed for describing and understanding disinformation incidents.",
-    "icon": "map",
-    "kill_chain_order": {
-      "tactics": ["Pre-existing information",
+  "description": "DISARM is a framework designed for describing and understanding disinformation incidents.",
+  "icon": "map",
+  "kill_chain_order": {
+    "tactics": [
+      "Pre-existing information",
       "Information on repeated exposure",
       "Cleaving information",
       "Deviation from the standard",
       "Détail signifiant"
-      ]
-    },
-    "name": "Techniques",
-    "namespace": "dima",
-    "type": "dima-techniques",
-    "uuid": "d93988e9-26a1-4fe3-b24a-44d57a256b01",
-    "version": 1
-  }
-  
+    ]
+  },
+  "name": "Techniques",
+  "namespace": "dima",
+  "type": "dima-techniques",
+  "uuid": "d93988e9-26a1-4fe3-b24a-44d57a256b01",
+  "version": 1
+}

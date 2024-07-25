@@ -143,7 +143,7 @@ Category: *Cryptominers* - source: *Open Source Intelligence* - total: *5* eleme
 
 [DIMA](https://www.misp-galaxy.org/dima-techniques) - DIMA is a framework to identify attempts to exploit cognitive biases in information flow.
 
-Category: *dima* - source: *https://github.com/M82-project/DIMA/* - total: *11* elements
+Category: *dima* - source: *https://github.com/M82-project/DIMA/* - total: *15* elements
 
 [[HTML](https://www.misp-galaxy.org/dima-techniques)] - [[JSON](https://github.com/MISP/misp-galaxy/blob/main/clusters/dima-techniques.json)]
 

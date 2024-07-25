@@ -218,7 +218,122 @@
       },
       "uuid": "07041ce0-5e3f-4256-be34-2d14b81112cd",
       "value": "Sunk Cost Bias"
-    }
+    },,
+    {
+      "description": "Illusory Correlation Bias",
+      "meta": {
+        "external_id": "TE0211",
+        "kill_chain": [
+          "tactic: Creating a pattern "
+        ],
+        "ref": [
+          "https://github.com/M82-project/DIMA/blob/main/INFORM/INFORM.md#te0211-biais-de-corr%C3%A9lation-illusoire"]
+        },
+        "uuid":"37373664-7d1c-4e41-8051-b619fc2e45cb",
+        "value":"Illusory Correlation Bias"
+      },
+      {
+        "description": "Bias of anecdotal Evidence",
+        "meta": {
+          "external_id": "TE0212",
+          "kill_chain": [
+            "tactic: Creating a pattern"
+          ],
+          "ref": [
+            "https://github.com/M82-project/DIMA/blob/main/INFORM/INFORM.md#te0212-biais-de-la-preuve-anecdotique"]
+              },
+        "uuid":"7159526e-468d-45e0-a438-cd6c4c9f9062",
+        "value":"Bias of Anecdotal Evidence"
+      },
+      {
+        "description":"Illusion of series",
+        "meta": {
+          "external_id": "TE0221",
+          "kill_chain": [
+            "tactic: Creating a pattern"
+          ],
+          "ref": [
+            "https://github.com/M82-project/DIMA/blob/main/INFORM/INFORM.md#te0213-illusion-des-s%C3%A9ries"]},
+        "uuid":"f5e96259-2a93-4022-8cd1-78c3ffabfd7b",
+        "value":"Illusion of series"
+      },
+      {
+        "description":"Homogeneity Bias",
+        "meta": {
+          "external_id": "TE0231",
+          "kill_chain": [
+            "tactic: Familiar superiority"
+          ],
+          "ref": [
+            "https://github.com/M82-project/DIMA/blob/main/INFORM/INFORM.md#te0231-biais-dhomog%C3%A9n%C3%A9it%C3%A9"]},
+        "uuid":"90c56455-8fdb-4c8c-b033-ada6e3d2dc32",
+        "value":"Homogeneity Bias"
+        },
+      {
+        "description":"Known Route Bias",
+        "meta": {
+          "external_id": "TE0232",
+          "kill_chain": [
+            "tactic: Familiar superiority"
+          ],
+          "ref": [
+            "https://github.com/M82-project/DIMA/blob/main/INFORM/INFORM.md#te0242-biais-de-normalit%C3%A9"]
+        },
+        "uuid":"dbaeb7b5-9f75-4434-85fd-9ae342c5c57d",
+        "value":"Known Route Bias"
+      },
+      {
+        "description":"Zero-sum Bias",
+        "meta": {
+          "external_id": "TE0241",
+          "kill_chain": [
+            "tactic: simplication"
+          ],
+          "ref": [
+            "https://github.com/M82-project/DIMA/blob/main/INFORM/INFORM.md#te0241-biais-de-la-somme-nulle"]
+          },
+        "uuid":"f2803f33-b4b7-4802-ad16-c2a929ee6bd6",
+        "value":"Zero-sum bias"
+      },
+      {
+        "description":"Normality bias",
+        "meta": {
+          "external_id": "TE0242",
+          "kill_chain": [
+            "tactic: simplication"
+          ],
+          "ref": [
+            "https://github.com/M82-project/DIMA/blob/main/INFORM/INFORM.md#te0242-biais-de-normalit%C3%A9"]
+          },
+          "uuid":"80908457-da33-4fec-9723-18f28f0b35f8",
+          "value":"Normality bias"
+        }
+
+      {
+        "description":"The fallacious consensus effect, also known as consensus bias, is a pervasive cognitive prejudice that causes people to \"see their own behavioural choices and judgments as relatively common and appropriate to existing circumstances\".In other words, they assume that their personal qualities, characteristics, beliefs and actions are relatively common in the general population. This false consensus is important because it increases self-esteem (confidence effect). It can be derived from a desire to conform and to be liked by others in a social environment.",
+        "meta": {
+          "external_id": "TE0251",
+          "kill_chain": [
+            "tactic: Self-reference"
+          ],
+          "ref": [
+            "https://github.com/M82-project/DIMA/blob/main/INFORM/INFORM.md#te00251-effet-de-faux-consensus"]},
+        "uuid":"090bfdd4-878d-4d13-b39c-8b04e50763d7",
+        "value":"False consensus effect"
+      },
+      {
+        "description":"Hindsight bias or creeping determinism is the common tendency of people to perceive past events as having been more predictable than they were. After an event has occurred, people often think they would have predicted, or perhaps even known with a high degree of certainty, what the outcome of the event would have been before it happened.",
+        "meta": {
+          "external_id": "TE0261",
+          "kill_chain": [
+            "tactic: Time projection"
+          ],
+          "ref": [
+            "https://github.com/M82-project/DIMA/blob/main/INFORM/INFORM.md#te0261-biais-r%C3%A9trospectif"]
+        },
+        "uuid":"f5e96259-2a93-4022-8cd1-78c3ffabfd7b",
+        "value":"Hindsight Bias"
+      } 
   ],
   "version": 1
 }

@@ -163,6 +163,56 @@
       "uuid": "b5fabae8-6a30-4384-a472-10ca06d05f36",
       "value": "Weber-Fechner law"
     }
+    ,{
+      "description": "Overconfidence Bias",
+      "meta": {
+        "external_id": "TE0411",
+        "kill_chain": [
+          "tactic: Individual valorization"
+        ],
+        "ref": [
+          "https://github.com/M82-project/DIMA/blob/main/ACT/ACT.md#te0411--biais-dexc%C3%A8s-de-confiance"]
+    },
+    "uuid":"3d626934-0217-4d48-93a2-71aaab2f0237",
+    "value":"Overconfidence Bias"
+  },
+  {
+    "description": "Peltzman effect (risk compensation)",
+    "meta": {
+      "external_id": "TE0412",
+      "kill_chain": [
+        "tactic: Individual valorization"
+      ],
+      "ref": [
+        "https://github.com/M82-project/DIMA/blob/main/ACT/ACT.md#te0412--effet-peltzman-compensation-du-risque",
+  ]},
+  "uuid":"4c506893-25a3-41e4-a7f9-4f0f3ad9ce66",
+  "value":"Peltzman effect (risk compensation)"
+  },
+  {
+    "description": "Illusory superiority",
+    "meta": {
+      "external_id": "TE0413",
+      "kill_chain": [
+        "tactic: Individual valorization"
+      ],
+      "ref": [
+        "https://github.com/M82-project/DIMA/blob/main/ACT/ACT.md#te0413--sup%C3%A9riorit%C3%A9-illusoire"]},
+  "uuid":"f16d3d99-e817-4c37-b9f8-54018e6d63e9",
+  "value":"Illusory superiority"
+  },
+  {
+    "description": "Sunk Cost Bias",
+    "meta": {
+      "external_id": "TE0421",
+      "kill_chain": [
+        "tactic: Escalatory strengthening"
+      ],
+      "ref": [
+        "https://github.com/M82-project/DIMA/blob/main/ACT/ACT.md#te0421--biais-des-co%C3%BBts-irr%C3%A9cup%C3%A9rables"]},
+  "uuid":"07041ce0-5e3f-4256-be34-2d14b81112cd",
+  "value":"Sunk Cost Bias"
+  }
   ],
   "version": 1
 }
